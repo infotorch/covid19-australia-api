@@ -1,4 +1,4 @@
-![infotorch logo](https://i.imgur.com/xtS74my.png | width=100)
+![infotorch logo](https://i.imgur.com/xtS74my.png)
 
 # Infotorch COVID-19 Australia Data API
 
