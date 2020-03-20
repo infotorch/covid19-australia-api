@@ -42,7 +42,7 @@ Supported geos are:
 
 - `NSW` `VIC` `QLD` `WA` `SA` `TAS` `ACT` `NT` - States
 - `AU` - All of Australia
-- Country codes - coming soon
+- `UK` `Singapore` `South Korea` `UK` `Spain` - Country codes - more coming soon
 
 Supported stat parameters
 
@@ -50,6 +50,10 @@ Supported stat parameters
 - `deaths` - confirmed deaths
 - `tested` - tested cases
 - `recovered` - recovered cases
+
+Example: Confirmed cases from the UK and Spain in time series
+
+https://api.infotorch.org/api/covid19/statlist/?geos=UK,Spain&stat=confirmed
 
 ## Contact
 
