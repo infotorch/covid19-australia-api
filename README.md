@@ -6,6 +6,8 @@ This is an API of COVID-19 data for Australia proivded by Infotorch as part of o
 
 The data is sourced from the various website of state government health and other departments and parsed into a format. We crawl the websites every 10-15 minutes so updates should be frequent and regular.
 
+Our crawl of Australian data tends to outpace the official federal governemtn stats at `health.gov.au` by 24-48 hours or more
+
 We will also be providing a backfill of international data using the [ECDC dataset](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 
 ## Details
@@ -48,3 +50,9 @@ Supported stat parameters
 - `deaths` - confirmed deaths
 - `tested` - tested cases
 - `recovered` - recovered cases
+
+## Contact
+
+If you are using our API or have any questions email on `hello@infotorch.org`
+
+More endpoints will be added as we expand our data coverage - stay up to date by following [@infotorchorg](https://twitter.com/infotorch.org)
