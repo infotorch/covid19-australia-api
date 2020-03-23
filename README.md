@@ -2,7 +2,7 @@
 
 # Infotorch COVID-19 Australia Data API
 
-This is an API of COVID-19 data for Australia proivded by Infotorch as part of our [COVID-19 portal](https://infotorch.org)
+This is an API of COVID-19 data for Australia proivded by Infotorch as part of our [COVID-19 portal](https://infotorch.org/covid19)
 
 The data is sourced from the various website of state government health and other departments and parsed into a format. We crawl the websites every 10-15 minutes so updates should be frequent and regular.
 
